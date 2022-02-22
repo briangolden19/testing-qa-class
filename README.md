@@ -1,1 +1,3 @@
-# testing-qa-class
+# I can ensure that my code is functional and secure by testing it extensively. Running unit tests on different aspects of a project can make sure that the code is functional. I can run security tests to make sure that it is secure. I would also try to break my code in as many ways that I could come up with, futher testing how functional and secure it is. 
+# I interpret users needs into code by listening for aspects that sound like features and trying to parrot that back to the user. I would use "user stories" to assist in the creation of features as well. 
+# My approach to designing software is to look at all of the requirments and makes sure that they are met. Making sure I can meet the requirments is the most important part. The integration and design behind the scenes will come from requirments. 
